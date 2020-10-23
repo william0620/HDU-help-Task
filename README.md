@@ -1,2 +1,3 @@
 # HDU-help-Task
-Little Crawler
+ A little scawler of HDU-Help task
+ 0→？ OF Python
